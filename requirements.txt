@@ -1,0 +1,7 @@
+coverage==4.0.3
+logzero==1.5.0
+pycodestyle==2.4.0
+pyflakes==2.0.0
+pylint==2.2.0
+flake8==3.6.0
+python-coveralls==2.9.1
